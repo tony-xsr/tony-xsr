@@ -33,14 +33,15 @@
 ```javascript
 const tung = {
   experience : "16+ years",
-  started    : "Mobile (Android / iOS)",
-  backend    : "Node.js · Java · Redis · MongoDB  →  5 years",
+  mobile     : ["Android", "iOS", "Electron (Win/macOS)", "React Native", "Expo"],
+  mobileIDEs : ["Android Studio", "Xcode", "Eclipse", "VSCode"],
+  backend    : ["Node.js", "Java Serverless", "Redis", "MongoDB", "MySQL", "Prisma"],
+  frontend   : ["React.js", "HTML/CSS/JS", "Figma", "Adobe Suite"],
   web3       : ["Solana 🟣", "Ethereum ⟠", "Token Dev", "Smart Contracts"],
-  now        : "Full-Stack · Web3 · APIs · Free Tools",
   passion    : "Build something useful. Ship it. Make it free.",
   hobbies    : ["GYM 🏋️", "Language Learning 🗣️", "Tech Research 🔬"],
   learning   : ["Korean 🇰🇷", "Japanese 🇯🇵"],
-  funFact    : "I debug in 5 spoken languages",
+  funFact    : "I debug in 5 spoken languages 🗣️",
 };
 ```
 
@@ -50,45 +51,69 @@ const tung = {
 
 <div align="center">
 
-**`📱 Mobile`**
+**`📱 Mobile — IDEs & Platforms`**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,dart&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,dart&theme=light" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,dart&theme=dark" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=androidstudio,xcode,eclipse,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio,xcode,eclipse,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,xcode,eclipse,vscode&theme=dark" />
 </picture>
 
 <br/>
+
+**`📲 Mobile — Frameworks`**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=react,electron,kotlin,swift,java&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,electron,kotlin,swift,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,electron,kotlin,swift,java&theme=dark" />
+</picture>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+
+<br/><br/>
 
 **`⚙️ Backend`**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs,java,python,redis,mongodb,express,docker,linux&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,java,python,redis,mongodb,express,docker,linux&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,redis,mongodb,express,docker,linux&theme=dark" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs,java,redis,mongodb,mysql,prisma,express,docker&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,java,redis,mongodb,mysql,prisma,express,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,redis,mongodb,mysql,prisma,express,docker&theme=dark" />
 </picture>
 
-<br/>
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=postman&logoColor=white" />
 
-**`🌐 Frontend & Deploy`**
+<br/><br/>
+
+**`🌐 Frontend`**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=js,ts,react,html,css,vercel,nginx&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,html,css,vercel,nginx&theme=light" />
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vercel,nginx&theme=dark" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=html,css,js,react,figma,ps,xd&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,figma,ps,xd&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,ps,xd&theme=dark" />
 </picture>
 
-<br/>
+<img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-**`🔧 Tools`**
+<br/><br/>
+
+**`🔧 Dev Tools`**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase&theme=dark" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=git,github,postman,firebase,linux&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,postman,firebase,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,linux&theme=dark" />
 </picture>
 
-<br/>
+<br/><br/>
 
 **`⛓️ Web3 & Blockchain`**
 
@@ -97,8 +122,6 @@ const tung = {
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=solidity,rust&theme=light" />
   <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark" />
 </picture>
-
-<br/>
 
 <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
