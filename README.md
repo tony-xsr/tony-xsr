@@ -99,7 +99,7 @@ const tung = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tungtran.uit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tungtran.uit@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tungtran.uit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev8uk@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40fasxos-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fasxos)
 [![Facebook](https://img.shields.io/badge/Facebook-tungtran.uit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.me/tungtran.uit)
 
