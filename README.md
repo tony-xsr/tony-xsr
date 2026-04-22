@@ -1,24 +1,22 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&text=Tung%20Tran&fontAlignY=38&fontColor=38BDF8&fontSize=46&desc=Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web3%20Developer&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+
 <div align="center">
 
-<!-- ════════════════ HEADER ════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A6+Tung+Tran+%E2%80%94+Full+Stack+%2B+Mobile+%2B+Web3+%E2%9C%A6;%3E_+16%2B+years+of+shipping+products;%F0%9F%9F%A3+Solana+%7C+%E2%9F%A0+Ethereum+%7C+%F0%9F%AA%99+Token+Dev;%F0%9F%93%B1+Android+%7C+iOS+%7C+Electron+%7C+React+Native;%F0%9F%97%A3%EF%B8%8F+5+spoken+languages+%7C+%F0%9F%87%BB%F0%9F%87%B3+%F0%9F%87%BA%F0%9F%87%B8+%F0%9F%87%A8%F0%9F%87%B3+%F0%9F%87%B0%F0%9F%87%B7+%F0%9F%87%AF%F0%9F%87%B5" />
-  <img alt="header" width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=%E2%9C%A6+Tung+Tran+%E2%80%94+Full+Stack+%2B+Mobile+%2B+Web3+%E2%9C%A6" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=38BDF8&background=0D1117&center=true&vCenter=true&width=900&height=50&lines=%3E_+16%2B+years+of+shipping+products;%F0%9F%9F%A3+Solana+%7C+%E2%9F%A0+Ethereum+%7C+%F0%9F%AA%99+Token+Dev;%F0%9F%93%B1+Android+%7C+iOS+%7C+Electron+%7C+React+Native;%F0%9F%97%A3%EF%B8%8F+5+spoken+languages+%7C+%F0%9F%87%BB%F0%9F%87%B3+%F0%9F%87%BA%F0%9F%87%B8+%F0%9F%87%A8%F0%9F%87%B3+%F0%9F%87%B0%F0%9F%87%B7+%F0%9F%87%AF%F0%9F%87%B5" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tony-xsr&color=38bdf8&style=flat-square&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/tony-xsr?label=Followers&style=flat-square&color=818cf8&cachebust=1" />
+<img src="https://img.shields.io/github/followers/tony-xsr?label=Followers&style=flat-square&color=818cf8" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/tony-xsr?label=Stars&style=flat-square&color=4ade80&affiliations=OWNER&cachebust=1" />
+<img src="https://img.shields.io/github/stars/tony-xsr?label=Stars&style=flat-square&color=4ade80&affiliations=OWNER" />
 
 </div>
 
 <br/>
+
+---
 
 <!-- ════════════════ TROPHIES ════════════════ -->
 
@@ -34,13 +32,13 @@
 
 <!-- ════════════════ STATS DASHBOARD ════════════════ -->
 
-## 📊 &nbsp;GitHub Dashboard
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tony-xsr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Tung%27s+GitHub+Stats&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tony-xsr&show_icons=true&hide_border=true&rank_icon=github&custom_title=Tung%27s+GitHub+Stats&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&border_radius=10&cache_seconds=1800" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-xsr&layout=compact&hide_border=true&langs_count=10&custom_title=Languages+Used&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-xsr&layout=compact&hide_border=true&langs_count=10&custom_title=Top+Languages&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=10&cache_seconds=1800" />
 
 </div>
 
@@ -51,26 +49,6 @@
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=tony-xsr&hide_border=true&mode=weekly&background=0D1117&ring=38BDF8&fire=818CF8&currStreakNum=4ADE80&currStreakLabel=38BDF8&sideNums=94A3B8&sideLabels=64748B&dates=64748B&border_radius=10" />
-
-</div>
-
-<br/>
-
-<!-- ════ SUMMARY CARDS (5-panel row) ════ -->
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tony-xsr&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tony-xsr&theme=tokyonight" />
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tony-xsr&theme=tokyonight" />
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tony-xsr&theme=tokyonight&utcOffset=7" />
 
 </div>
 
@@ -127,10 +105,10 @@
 **⏱ Commit Activity by Hour**
 
 ```
-🌅 Morning   (6h–12h)  ███████░░░  42%
-🌆 Afternoon (12h–18h) █████░░░░░  28%
-🌃 Evening   (18h–24h) ████░░░░░░  22%
-🌙 Night     (0h–6h)   ██░░░░░░░░   8%
+🌅 Morning   (06h–12h)  ███████░░░  42%
+🌆 Afternoon (12h–18h)  █████░░░░░  28%
+🌃 Evening   (18h–24h)  ████░░░░░░  22%
+🌙 Night     (00h–06h)  ██░░░░░░░░   8%
 ```
 
 </td>
@@ -335,3 +313,5 @@ Sun  ██░░░░░░░░   8%
   <sub><i>"写代码解决真实问题。发布它。分享它。"</i></sub><br/>
   <sub><i>"Write code that solves real problems. Ship it. Share it."</i></sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
