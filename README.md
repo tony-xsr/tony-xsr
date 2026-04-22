@@ -10,11 +10,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tony-xsr&color=38bdf8&style=flat-square&label=👁 Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=tony-xsr&color=38bdf8&style=flat-square&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/tony-xsr?label=Followers&style=flat-square&color=818cf8" />
+<img src="https://img.shields.io/github/followers/tony-xsr?label=Followers&style=flat-square&color=818cf8&cachebust=1" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/tony-xsr?label=Stars&style=flat-square&color=4ade80&affiliations=OWNER" />
+<img src="https://img.shields.io/github/stars/tony-xsr?label=Stars&style=flat-square&color=4ade80&affiliations=OWNER&cachebust=1" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tony-xsr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tony-xsr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
